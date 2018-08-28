@@ -1,0 +1,6 @@
+Keras==2.2.2
+nltk==3.3
+numpy==1.15.1
+pandas==0.23.4
+scikit-learn==0.19.2
+tensorflow==1.10.1

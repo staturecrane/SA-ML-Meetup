@@ -12,6 +12,7 @@ Each gue
 ## Copy-paste Regression approach
 Follow the model here, but use Score instead of Price.
 https://medium.com/tensorflow/predicting-the-price-of-wine-with-the-keras-functional-api-and-tensorflow-a95d1c2c1b03
+Solution is in `KerasRegression.ipynb`
 
 Accuracy with 10 epochs was %27.9
 
